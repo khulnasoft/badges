@@ -1,7 +1,3 @@
-***
-☝️ **Important announcement:** KhulnaSoft will be saying goodbye 👋 and passing the torch to Snyk on June 3rd, 2020! [Find out how to migrate to Snyk and more at khulnasoft.com](https://khulnasoft.com)
-***
-
 # Badges for KhulnaSoft
 
 [![KhulnaSoft badge](https://badges.khulnasoft.com/khulnasoft/badges.svg)](https://khulnasoft.com/)
