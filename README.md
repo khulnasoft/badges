@@ -1,6 +1,5 @@
 # Badges for KhulnaSoft
 
-[![KhulnaSoft badge](https://badges.khulnasoft.com/khulnasoft/badges.svg)](https://khulnasoft.com/)
 [![Build Status](https://travis-ci.org/khulnasoft/badges.svg?branch=master)](https://travis-ci.org/khulnasoft/badges)
 
 This is the webservice that is responsible for the KhulnaSoft badges.
